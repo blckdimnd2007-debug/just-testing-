@@ -1,0 +1,6 @@
+{
+  "name": "KAVIAR Architecture & Engineering",
+  "description": "Black and white minimalist corporate website for a premier AEC firm, featuring editorial project galleries, interactive BIM/CAD viewers, live site telemetry, and RFP estimation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
